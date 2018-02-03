@@ -1,7 +1,7 @@
 {
   "name": "braingames-apant",
-  "version": "2.0.1",
-  "description": "brain-games-new-surround",
+  "version": "2.0.2",
+  "description": "brain-games-new-surrounding",
   "main": "dist/index.js",
   "bin": {
     "brain-games": "dist/bin/brain-games.js",
