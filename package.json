@@ -1,6 +1,6 @@
 {
-  "name": "braingames-apant",
-  "version": "2.0.2",
+  "name": "sicpInJS",
+  "version": "1.0.0",
   "description": "brain-games-new-surrounding",
   "main": "dist/index.js",
   "bin": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexeypant/project-lvl1-s220.git"
+    "url": "git+https://github.com/alexeypant/sicpInJS.git"
   },
   "author": "Alexey Panteleychuk",
   "license": "ISC",
